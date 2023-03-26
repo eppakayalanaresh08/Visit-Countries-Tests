@@ -1,0 +1,43 @@
+.bg-container {
+  background-color: #161624;
+  height: 100vh;
+}
+
+.heading-countries {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.lists-container {
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  border: 2px solid #334155;
+  overflow: auto;
+  min-height: 30vh;
+  width: 100%;
+}
+
+.heading-visited {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.lists-display {
+  display: flex;
+}
+
+.container-no-countries {
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-Countries {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 23px;
+}

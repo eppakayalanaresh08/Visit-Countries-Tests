@@ -1,0 +1,48 @@
+.list-style {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.style-button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.name-Element {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.button-Element {
+  background-color: transparent;
+  border: none;
+  color: #94a3b8;
+}
+
+.horizontal-line-container {
+  width: 100%;
+}
+
+.is-Visited {
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.horizontal-line {
+  width: 100%;
+  border: 1px solid #334155;
+}
+
+.style-Visit {
+  background-color: #3b82f6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
